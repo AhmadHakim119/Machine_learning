@@ -4,7 +4,7 @@
 ## Labs Overview
 
 - **Lab 0**: Introduction to Python, NumPy, and basic data handling  
-- ** Labs coming soon *  
+- ** Labs coming soon 
 
 Labs are added progressively throughout the course.
 
